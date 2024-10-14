@@ -20,7 +20,7 @@
 - :school: I am a `Junior` at [ED-TECNICA](https://edtecnica.com/).
 - :trophy: (NONE).
 - :computer: I am a competitive programmer at (NONE).
-- :student: I’m currently learning `Front-End` and `Back-End`.
+- :student: I’m currently studying `Front-End` and `Back-End`.
 - :thinking: I’m currently open for a new `job opportunity` 🚫.
 - :boom: You can visit [MY WEBSITE](). (COMING SOON)
 <br>
@@ -40,7 +40,7 @@
 ### Programming languages
 
 <p align = 'center'>
-<b>(None) Learning!! ⚠️</b>
+<b>(None) Studying!! ⚠️</b>
 </p>
 
 <br> 
@@ -88,7 +88,7 @@
 	
 <div>
   <p align="center">
-	  <b>(None) Learning!! ⚠️</b>
+	  <b>(None) Studying!! ⚠️</b>
   </p>
 </div>
 </details>
