@@ -17,12 +17,12 @@
 
 <br><br>
 
-- :school: I am a `Junior` at [ED-TECNICA](https://edtecnica.com/)
-- :trophy: (NONE)
+- :school: I am a `Junior` at [ED-TECNICA](https://edtecnica.com/).
+- :trophy: (NONE).
 - :computer: I am a competitive programmer at (NONE).
 - :student: I’m currently learning `Front-End` and `Back-End`.
-- :thinking: I’m currently open for a new `job opportunity` 🚫
-- :boom: You can visit [MY WEBSITE](). (COMING SOON)
+- :thinking: I’m currently open for a new `job opportunity` 🚫.
+- :boom: You can visit [MY WEBSITE](). (COMING SOON).
 <br>
 
 
