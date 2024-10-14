@@ -22,7 +22,7 @@
 - :computer: I am a competitive programmer at (NONE).
 - :student: I’m currently learning `Front-End` and `Back-End`.
 - :thinking: I’m currently open for a new `job opportunity` 🚫.
-- :boom: You can visit [MY WEBSITE](). (COMING SOON).
+- :boom: You can visit [MY WEBSITE](). (COMING SOON)
 <br>
 
 
