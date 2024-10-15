@@ -21,8 +21,8 @@
 - :trophy: (NONE).
 - :computer: I am a competitive programmer at (NONE).
 - :student: I’m currently studying `Front-End` and `Back-End`.
-- :thinking: I’m currently open for a new `job opportunity` 🚫.
-- :boom: You can visit [MY WEBSITE](). (COMING SOON)
+- :thinking: I’m currently 🚫 for a new `job opportunity` 
+- :boom: You can visit [MY WEBSITE]()  (COMING SOON).
 <br>
 
 
@@ -45,7 +45,7 @@
 
 <br> 
 
----
+----
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
