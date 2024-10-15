@@ -67,7 +67,6 @@
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=josglf26&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="josglf26" height="230px"/>
 <br/>
 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 </details>
 
@@ -82,15 +81,3 @@
 	
 </details>
 	
-<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
-
-----
-	
-<div>
-  <p align="center">
-	  <b>(None) Studying!! ⚠️</b>
-  </p>
-</div>
-</details>
-
-</br></br>
