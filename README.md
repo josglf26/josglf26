@@ -33,10 +33,6 @@
 <br> 
 
 ----
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=josglf26&theme=tokyonight_duo" alt="josglf26" /></p>
-
-</details>
   
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
 
